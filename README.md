@@ -1,7 +1,13 @@
 
+[![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue)](https://www.zhihu.com/people/chensong-1-90)
+[![](https://img.shields.io/badge/csdn-CSDN-red)](https://blog.csdn.net/Poisx)
+[![](https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-green)](https://leetcode-cn.com/u/chen-song-3)
+
 我是一名北漂，和大多数北漂一样，为了生计而奔波，早上坐一个多小时地铁，加班很频繁
 
-一个仍然在路上，向往自由和梦想的人！
+一个永远积极向上、永远热泪盈眶、永远豪情满怀、永远坦坦荡荡！！！
+
+一个仍然在路上，向往自由和梦想的人！！！
 
 
 
