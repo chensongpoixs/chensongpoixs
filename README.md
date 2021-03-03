@@ -4,6 +4,9 @@
 一个仍然在路上，向往自由和梦想的人！
 
 
+
+
+
 <table><tr>
 <td valign="top" width="50%">
 
@@ -26,3 +29,6 @@
 
 </td>
 </tr></table>
+
+![chensong's github stats](https://github-readme-stats.vercel.app/api?username=chensongpoixs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chensongpoixs&hide=html,css&layout=compact&langs_count=9)
