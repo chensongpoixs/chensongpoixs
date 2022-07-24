@@ -23,14 +23,14 @@
 |2022-02-06|[2、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) |
 
 - [音视频基础](https://github.com/chensongpoixs/cmp4_box_avi_flv)
-- [人工智能（ 项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容   ）](https://github.com/chensongpoixs/cartificial_intelligence)
+- [人工智能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
 
 </td>
 <td valign="top" width="50%">
 
   RTC开发云游戏应用和学习过程记录
 
- [①、云游戏、GPU虚拟化容器(Sandbox技术)和存储的虚拟化](https://github.com/chensongpoixs/crtc)
+ [①、云游戏、GPU虚拟化容器(Sandbox技术)和存储的虚拟化](https://chensongpoixs.github.io/ccloud_game_rtc/)
 
  [②、流媒体SFU](https://github.com/chensongpoixs/cmediasoup_demo)
 
