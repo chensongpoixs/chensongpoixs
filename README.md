@@ -22,7 +22,7 @@
 |2021-12-05|[1、WebRTC开嗨鸭](https://chensongpoixs.github.io/WebRTC/#/) |
 |2022-02-06|[2、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) |
 
-- [音视频基础](https://github.com/chensongpoixs/cmp4_box_avi_flv)
+- [音视频基础](https://chensongpoixs.github.io/cmp4_box_avi_flv/)
 - [人工智能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
 
 </td>
