@@ -32,7 +32,7 @@
 
  [①、云游戏、GPU虚拟化容器(Sandbox技术)和存储的虚拟化](https://chensongpoixs.github.io/ccloud_game_rtc/)
 
- [②、流媒体SFU](https://github.com/chensongpoixs/cmediasoup_demo)
+ [②、流媒体SFU](https://chensongpoixs.github.io/cmedia_rtc_server/)
 
  [③、RTC的学习记录](https://github.com/chensongpoixs/crtc_doc)
 
