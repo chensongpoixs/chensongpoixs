@@ -19,7 +19,7 @@
 
 |Date|Project|
 |:---:|:---:|
-|2021-12-05|[1、WebRTC源码探秘开嗨鸭](https://chensongpoixs.github.io/WebRTC/#/) |
+|2021-12-05|[1、WebRTC专题开嗨鸭](https://chensongpoixs.github.io/WebRTC/#/) |
 |2022-02-06|[2、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) |
 
 - [音视频基础](https://chensongpoixs.github.io/cmp4_box_avi_flv/)
