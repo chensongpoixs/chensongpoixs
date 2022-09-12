@@ -12,7 +12,7 @@
 仍然在路上，向往自由和梦想的人！！！
 
 
-# 一、 音视频、流媒体、人工智能的学习记录
+# 一、 音视频、流媒体学习记录
 
 <table><tr>
 <td valign="top" width="50%">
@@ -23,7 +23,6 @@
 |2022-02-06|[2、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) |
 
 - [音视频基础](https://chensongpoixs.github.io/cmp4_box_avi_flv/)
-- [AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
 
 </td>
 <td valign="top" width="50%">
@@ -40,12 +39,19 @@
 </td>
   </table>
  
+<table>
+	
+# 二、人工智能的学习记录
 
+- [AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
+
+
+</table>
 
 <table><tr>
 <td valign="top" width="50%">
 
-# 二、 开源项目
+# 三、 开源项目
 	
 - [Redis源码的学习](https://github.com/chensongpoixs/credis_source) 
 - [STL源码的学习](https://github.com/chensongpoixs/cstl_source)   
@@ -55,7 +61,7 @@
  
 <td valign="top" width="50%">
 
-# 三、 我的博客
+# 四、 我的博客
 
 - [操作系统原理之加载系统的流程， 中断，异常和系统调用](https://chensongpoixs.github.io/2020/05/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B9%8B%E5%8A%A0%E8%BD%BD%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%B5%81%E7%A8%8B-%E4%B8%AD%E6%96%AD-%E5%BC%82%E5%B8%B8%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/)
 - [查看更多](https://chensongpoixs.github.io)
