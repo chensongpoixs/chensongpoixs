@@ -51,7 +51,7 @@
 <table><tr>
 <td valign="top" width="50%">
 
-# 三、 开源项目
+# 三、 开源项目学习
 	
 - [Redis源码的学习](https://github.com/chensongpoixs/credis_source) 
 - [STL源码的学习](https://github.com/chensongpoixs/cstl_source)   
