@@ -45,11 +45,8 @@
 
 - [AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
 
-
 </table>
 
-<table><tr>
-<td valign="top" width="50%">
 
 # 三、 开源项目学习
 	
@@ -57,9 +54,7 @@
 - [STL源码的学习](https://github.com/chensongpoixs/cstl_source)   
 - [查看更多](https://github.com/chensongpoixs/)	 
 
-</td>
- 
-<td valign="top" width="50%">
+
 
 # 四、 我的博客
 
@@ -67,7 +62,7 @@
 - [查看更多](https://chensongpoixs.github.io)
 
 
-</td></table>
+
 
 
 
