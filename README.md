@@ -51,7 +51,8 @@
 # 三、 开源项目学习
 	
 - [Redis源码的学习](https://github.com/chensongpoixs/credis_source) 
-- [STL源码的学习](https://github.com/chensongpoixs/cstl_source)   
+- [STL源码的学习](https://github.com/chensongpoixs/cstl_source) 
+- [Nginx源码的学习](https://github.com/chensongpoixs/cnginx_source)  
 - [查看更多](https://github.com/chensongpoixs/)	 
 
 
