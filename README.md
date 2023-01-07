@@ -43,8 +43,9 @@
 	
 # 二、人工智能的学习记录
 
-- [AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
+- [1、AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
 
+- [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
 </table>
 
 
