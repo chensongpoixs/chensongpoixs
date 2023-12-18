@@ -50,22 +50,9 @@
 - [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
 </table>
 
-
- 
-<table><tr>
-<td valign="top" width="50%">
-	
 # 三、 开源项目
 
-
-
-|Date|Project|
-|:---:|:---|
-|2023-12-17|[1、线上日志收集系统](https://chensongpoixs.github.io/clog_collecter/)|
-
-
-</td>
-
+<table><tr>
 <td valign="top" width="50%">
 
 **3D开源项目**
@@ -75,9 +62,18 @@
 |2023-10-18|[1、OpenGL基础理论、渲染虚拟相机 HDR、LDR、Bloom](https://chensongpoixs.github.io/crendering_virtual_cameras/)|
 
 
-</td> 
+</td>
+<td valign="top" width="50%">
+
+**项目**
  
-</table>	
+|Date|Project|
+|:---:|:---|
+|2023-12-17|[1、线上日志收集系统](https://chensongpoixs.github.io/clog_collecter/)|
+	
+
+</td>
+  </table>
 
 # 四、 开源项目学习
 	
