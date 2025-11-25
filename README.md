@@ -49,7 +49,7 @@
 
 - [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
 
-- [3、大语言模型算法及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术]()
+- [3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)
 </table>
 
 # 三、 开源项目
