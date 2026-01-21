@@ -1,11 +1,4 @@
 
-<font color='red'>务必保持谦虚、谨慎、不骄、不躁的作风,保持艰苦奋斗的作风！！！</font>
-
-我是一名北漂，和大多数北漂一样，为了生计而奔波，早上坐一个多小时地铁，加班很频繁
-
-一个永远积极向上、永远热泪盈眶、永远豪情满怀、永远坦坦荡荡！！！
-
-仍然在路上，向往自由和梦想的人！！！
 
 
  
@@ -23,7 +16,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chensongpoixs&theme=nord_bright" alt="Most Commits" />
 </p>
 
----
 
 <p align="center">
   <a href="https://github.com/chensongpoixs">
@@ -47,7 +39,18 @@
   </a>
 </p>
 
+---
 
+
+
+
+<font color='red'>务必保持谦虚、谨慎、不骄、不躁的作风,保持艰苦奋斗的作风！！！</font>
+
+我是一名北漂，和大多数北漂一样，为了生计而奔波，早上坐一个多小时地铁，加班很频繁
+
+一个永远积极向上、永远热泪盈眶、永远豪情满怀、永远坦坦荡荡！！！
+
+仍然在路上，向往自由和梦想的人！！！
 
 
 # 一、 音视频、流媒体学习记录
@@ -89,7 +92,7 @@
 
 - [3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)
 
-- [4、AI编码助手(Agent、ReAct -> 思考-行动-观测)](https://chensongpoixs.github.io/clude_code/)
+- [4、AI编码助手(Agent、ReAct -> 思考-行动-观测) 2026-01-01](https://chensongpoixs.github.io/clude_code/)
 </table>
 
 # 三、 开源项目
