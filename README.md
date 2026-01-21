@@ -1,8 +1,4 @@
 
-[![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue)](https://www.zhihu.com/people/chensong-1-90)
-[![](https://img.shields.io/badge/csdn-CSDN-red)](https://blog.csdn.net/Poisx)
-[![](https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-green)](https://leetcode-cn.com/u/chen-song-3)
-
 <font color='red'>务必保持谦虚、谨慎、不骄、不躁的作风,保持艰苦奋斗的作风！！！</font>
 
 我是一名北漂，和大多数北漂一样，为了生计而奔波，早上坐一个多小时地铁，加班很频繁
@@ -10,6 +6,48 @@
 一个永远积极向上、永远热泪盈眶、永远豪情满怀、永远坦坦荡荡！！！
 
 仍然在路上，向往自由和梦想的人！！！
+
+
+ 
+---
+
+### 📊 GitHub Stats & Productive Time
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chensongpoixs&theme=nord_bright" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chensongpoixs&theme=nord_bright&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chensongpoixs&theme=nord_bright" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chensongpoixs&theme=nord_bright" alt="Most Commits" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/chensongpoixs">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=chensongpoixs.chensongpoixs" align="bottom"/>
+  </a>
+  <a href="https://github.com/chensongpoixs">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2chensongpoixs&query=followers&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/>
+  </a>
+  <a href="https://huggingface.co/chensongpoixs">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-chensongpoixs-blue" align="bottom"/>
+  </a>
+  
+  <a href="https://www.zhihu.com/people/chensong-1-90">
+    <img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?style=flat&logo=rss" align="bottom"/>
+  </a>
+  <a href="https://blog.csdn.net/Poisx">
+    <img src="https://img.shields.io/badge/CNBlogs-Blog-red?style=flat&logo=rss" align="bottom"/>
+  </a>
+  <a href="https://leetcode-cn.com/u/chen-song-3">
+    <img src="https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-green?style=flat&logo=rss" align="bottom"/>
+  </a>
+</p>
+
+
 
 
 # 一、 音视频、流媒体学习记录
@@ -50,6 +88,8 @@
 - [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
 
 - [3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)
+
+- [4、AI编码助手(Agent、ReAct -> 思考-行动-观测)](https://chensongpoixs.github.io/clude_code/)
 </table>
 
 # 三、 开源项目
@@ -95,8 +135,6 @@
 
 
 
-
-![chensong's github stats](https://github-readme-stats.vercel.app/api?username=chensongpoixs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chensongpoixs&hide=html,css&layout=compact&langs_count=9)
+ 
 
 
