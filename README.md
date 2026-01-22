@@ -1,22 +1,5 @@
 
 
-
- 
----
-
-### 📊 GitHub Stats & Productive Time
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chensongpoixs&theme=nord_bright" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chensongpoixs&theme=nord_bright&utcOffset=8" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chensongpoixs&theme=nord_bright" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chensongpoixs&theme=nord_bright" alt="Most Commits" />
-</p>
-
-
 <p align="center">
   <a href="https://github.com/chensongpoixs">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=chensongpoixs.chensongpoixs" align="bottom"/>
@@ -38,10 +21,7 @@
     <img src="https://img.shields.io/badge/LeetCode-%E5%8A%9B%E6%89%A3-green?style=flat&logo=rss" align="bottom"/>
   </a>
 </p>
-
----
-
-
+ 
 
 
 <font color='red'>务必保持谦虚、谨慎、不骄、不躁的作风,保持艰苦奋斗的作风！！！</font>
@@ -134,6 +114,26 @@
 - [操作系统原理之加载系统的流程， 中断，异常和系统调用](https://chensongpoixs.github.io/2020/05/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B9%8B%E5%8A%A0%E8%BD%BD%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%B5%81%E7%A8%8B-%E4%B8%AD%E6%96%AD-%E5%BC%82%E5%B8%B8%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/)
 - [查看更多](https://chensongpoixs.github.io)
 
+
+
+---
+
+### 📊 GitHub Stats & Productive Time
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chensongpoixs&theme=nord_bright" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chensongpoixs&theme=nord_bright&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chensongpoixs&theme=nord_bright" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chensongpoixs&theme=nord_bright" alt="Most Commits" />
+</p>
+
+
+
+
+---
 
 
 
