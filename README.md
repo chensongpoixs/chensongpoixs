@@ -31,7 +31,7 @@
 
 ### 👨‍💻 About Me
 
-具有 **音视频、流媒体、GPU 加速及 AI 工程化** 等全栈系统能力的资深工程师与开源贡献者。  
+具有 **音视频、流媒体、GPU 加速及 AI 工程化** 等系统能力。  
 长期深耕 **WebRTC、实时通信、视频编解码、渲染管线**，并持续投入 **大语言模型训练、推理优化与模型小型化** 方向。
 
 - **核心技术栈**：C/C++、Go、Python、FFmpeg、WebRTC、GStreamer、CUDA、DirectX/OpenGL/Vulkan、Redis、Nginx
