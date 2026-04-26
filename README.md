@@ -51,19 +51,20 @@
 #### 🎥 音视频与流媒体
 | Date | Project | 简介 |
 |:---|:---|:---|
-| 2018-01-28 | [音视频基础](https://chensongpoixs.github.io/cmp4_box_avi_flv/) | 容器格式、编解码原理深入梳理 |
-| 2021-12-05 | [WebRTC 专题](https://chensongpoixs.github.io/WebRTC/#/) | WebRTC 协议栈、信令、NAT 穿透等系统学习 |
-| 2022-02-06 | [视频编解码深度学习](https://chensongpoixs.github.io/cvideo_codec/) | H.264/H.265 原理、码控、主观质量优化 |
-| 2023-12-06 | [RTSP 媒体服务](https://chensongpoixs.github.io/crtsp_server/) | 自研 RTSP 服务器，支持拉流转发与录制 |
-| 2025-07-14 | [GPU 加速转码](https://chensongpoixs.github.io/cmedia_transcode/) | 基于 NVENC/CUDA 的高吞吐转码服务 |
+| 2018-01-28 | [1、音视频基础](https://chensongpoixs.github.io/cmp4_box_avi_flv/) | 容器格式、编解码原理深入梳理 |
+| 2021-12-05 | [2、WebRTC专题开嗨鸭](https://chensongpoixs.github.io/WebRTC/#/) | WebRTC 协议栈、信令、NAT 穿透等系统学习 |
+| 2022-02-06 | [3、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) | H.264/H.265 原理、码控、主观质量优化 |
+| 2023-12-06 | [4、RTSP 媒体服务](https://chensongpoixs.github.io/crtsp_server/) | 自研 RTSP 服务器，支持拉流转发与录制 |
+| 2025-07-14 | [5、媒体服务GPU加速转码版本](https://chensongpoixs.github.io/cmedia_transcode/) | 基于 NVENC/CUDA 的高吞吐转码服务 |
 
 
   
 **RTC 与云游戏生态：**
-- [云游戏、GPU虚拟化容器(Sandbox)与存储虚拟化](https://chensongpoixs.github.io/ccloud_game_rtc/)
-- [流媒体 SFU](https://chensongpoixs.github.io/cmedia_rtc_server/)
-- [RTC 学习记录](https://github.com/chensongpoixs/crtc_doc)
-- [DirectX/OpenGL/Vulkan 渲染 Demo](https://github.com/chensongpoixs/cd3d10_d3d11_d3d12_dxgi_opengl)
+
+- [①、云游戏、GPU虚拟化容器(Sandbox技术)和存储的虚拟化](https://chensongpoixs.github.io/ccloud_game_rtc/)
+- [②、流媒体SFU](https://chensongpoixs.github.io/cmedia_rtc_server/)
+- [③、RTC的学习记录](https://github.com/chensongpoixs/crtc_doc)
+- [④、DirectX(D3D9、D3D11、D3D12)、OpenGL、Vulkan渲染原理学习demo](https://github.com/chensongpoixs/cd3d10_d3d11_d3d12_dxgi_opengl)
 
   
 #### 🤖 人工智能与大模型
@@ -82,14 +83,15 @@
 #### 🧩 开源项目 & 源码研习
 | Date | Project | 简介 |
 |:---|:---|:---|
-| 2023-10-18 | [OpenGL 虚拟相机（HDR/Bloom）](https://chensongpoixs.github.io/crendering_virtual_cameras/) | 基础理论、渲染管线与后期特效 |
-| 2023-12-17 | [线上日志收集系统](https://chensongpoixs.github.io/clog_collecter/) | 分布式日志采集与处理方案 |
+| 2023-10-18 | [1、OpenGL基础理论、渲染虚拟相机 HDR、LDR、Bloom](https://chensongpoixs.github.io/crendering_virtual_cameras/) | 基础理论、渲染管线与后期特效 |
+| 2023-12-17 | [2、线上日志收集系统](https://chensongpoixs.github.io/clog_collecter/) | 分布式日志采集与处理方案 |
 
 **源码学习：**
-- [Redis 源码](https://github.com/chensongpoixs/credis_source)
-- [STL 源码](https://github.com/chensongpoixs/cstl_source)
-- [Nginx 源码](https://github.com/chensongpoixs/cnginx_source)
-- [更多开源项目](https://github.com/chensongpoixs/)
+
+- [Redis源码的学习](https://github.com/chensongpoixs/credis_source) 
+- [STL源码的学习](https://github.com/chensongpoixs/cstl_source) 
+- [Nginx源码的学习](https://github.com/chensongpoixs/cnginx_source)  
+- [查看更多](https://github.com/chensongpoixs/)	
 
 ---
 
