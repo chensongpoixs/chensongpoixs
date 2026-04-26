@@ -47,6 +47,7 @@
 
 ### 📚 核心领域与项目库
 
+
 #### 🎥 音视频与流媒体
 | Date | Project | 简介 |
 |:---|:---|:---|
@@ -56,18 +57,27 @@
 | 2023-12-06 | [RTSP 媒体服务](https://chensongpoixs.github.io/crtsp_server/) | 自研 RTSP 服务器，支持拉流转发与录制 |
 | 2025-07-14 | [GPU 加速转码](https://chensongpoixs.github.io/cmedia_transcode/) | 基于 NVENC/CUDA 的高吞吐转码服务 |
 
+
+  
 **RTC 与云游戏生态：**
 - [云游戏、GPU虚拟化容器(Sandbox)与存储虚拟化](https://chensongpoixs.github.io/ccloud_game_rtc/)
 - [流媒体 SFU](https://chensongpoixs.github.io/cmedia_rtc_server/)
 - [RTC 学习记录](https://github.com/chensongpoixs/crtc_doc)
 - [DirectX/OpenGL/Vulkan 渲染 Demo](https://github.com/chensongpoixs/cd3d10_d3d11_d3d12_dxgi_opengl)
 
+  
 #### 🤖 人工智能与大模型
-- [AI 算法基本功与进阶（2019年12月起持续更新）](https://chensongpoixs.github.io/cartificial_intelligence/)
-- [视频超分辨率研究与落地](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
-- [大语言模型微调与应用（2025-11-25 起重点跟踪）](https://chensongpoixs.github.io/LLMSAPP/)
-- [AI 编码助手 (Agent/ReAct)（2026-01-01）](https://chensongpoixs.github.io/clude_code/)
-- [大模型交互日志与数据沉淀代理（2026-04-26）](https://chensongpoixs.github.io/LLMInteractionRecorderProxy/)
+
+- [1、AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
+
+- [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
+
+- [3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)
+
+- [4、AI编码助手(Agent、ReAct -> 思考-行动-观测) 2026-01-01](https://chensongpoixs.github.io/clude_code/)
+
+- [5、大模型交互日志与数据沉淀代理、直接服务于监督微调、偏好对齐等训练数据的准备工作(2026-04-26)](https://chensongpoixs.github.io/LLMInteractionRecorderProxy/)|
+
 
 #### 🧩 开源项目 & 源码研习
 | Date | Project | 简介 |
