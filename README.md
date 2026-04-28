@@ -8,6 +8,10 @@
   <a href="https://huggingface.co/chensongpoixs">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-chensongpoixs-blue" />
   </a>
+  <!-- 新增 ModelScope 数据集标签 -->
+  <a href="https://www.modelscope.cn/datasets/chensongpoixs">
+    <img src="https://img.shields.io/badge/ModelScope-Datasets-624aff?style=flat&logo=modelscope&logoColor=white" />
+  </a>
   <a href="https://www.zhihu.com/people/chensong-1-90">
     <img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?style=flat&logo=rss" />
   </a>
@@ -56,8 +60,7 @@
 | 2022-02-06 | [3、视频的编解码的原理的深度学习](https://chensongpoixs.github.io/cvideo_codec/) | H.264/H.265 原理、码控、主观质量优化 |
 | 2023-12-06 | [4、RTSP 媒体服务](https://chensongpoixs.github.io/crtsp_server/) | 自研 RTSP 服务器，支持拉流转发与录制 |
 | 2025-07-14 | [5、媒体服务GPU加速转码版本](https://chensongpoixs.github.io/cmedia_transcode/) | 基于 NVENC/CUDA 的高吞吐转码服务 |
-
-
+| 2025-09-05 | [6、媒体传输协议库](https://chensongpoixs.github.io/libmedia_transfer_protocol/) | 自研跨协议流媒体传输框架，统一封装 WebRTC、RTSP/RTP/RTCP、HLS、FLV、MPEG‑TS、GB28181、SIP 等标准，提供推拉流、会话协商、转封装及媒体分发 API |
   
 **RTC 与云游戏生态：**
 
@@ -97,10 +100,6 @@
 
 ### ✍️ 技术写作
 
-- 个人站点：[chensongpoixs.github.io](https://chensongpoixs.github.io)
-- 知乎专栏：[chensong-1-90](https://www.zhihu.com/people/chensong-1-90)
-- CSDN 博客：[Poisx](https://blog.csdn.net/Poisx)
-- 代表文章：
   - [操作系统原理：加载、中断、异常与系统调用](https://chensongpoixs.github.io/2020/05/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B9%8B%E5%8A%A0%E8%BD%BD%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%B5%81%E7%A8%8B-%E4%B8%AD%E6%96%AD-%E5%BC%82%E5%B8%B8%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/)
   - 更多文章请访问我的博客
 
