@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-chensongpoixs-blue" />
   </a>
   <!-- 新增 ModelScope 数据集标签 https://www.modelscope.cn/models/datasets/chensongpoixs-->
-  <a href="https://www.modelscope.cn/models/datasets/chensongpoixs">
-    <img src="https://img.shields.io/badge/ModelScope-Datasets-624aff?style=flat&logo=modelscope&logoColor=white" />
+  <a href="https://www.modelscope.cn/profile/chensongpoixs">
+    <img src="https://img.shields.io/badge/ModelScope-chensongpoixs-624aff?style=flat&logo=modelscope&logoColor=white" />
   </a>
   <a href="https://www.zhihu.com/people/chensong-1-90">
     <img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?style=flat&logo=rss" />
