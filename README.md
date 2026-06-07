@@ -39,7 +39,14 @@
 具有 **音视频、流媒体、GPU 加速及 AI 工程化** 等系统能力。  
 长期深耕 **WebRTC、实时通信、视频编解码、渲染管线**，并持续投入 **大语言模型训练、推理优化与模型小型化** 方向。
 
-- **核心技术栈**：C/C++、Go、Python、FFmpeg、WebRTC、GStreamer、CUDA、DirectX/OpenGL/Vulkan、Redis、Nginx
+- **核心技术栈**：
+  - **语言：** C/C++、Go、Python
+  - **音视频：** FFmpeg、WebRTC、GStreamer、RTSP、RTMP、SRT
+  - **GPU计算：** CUDA、NVENC、TensorRT、GPU Transcoding
+  - **图形渲染：** DirectX、OpenGL、Vulkan
+  - **基础设施：** Redis、Nginx、Linux、Docker
+  - **AI工程化：** Transformers、vLLM、LoRA、SFT、Agent、RAG
+
 - **当前聚焦**：
   - 🔥 **知识蒸馏（Teacher-Student）**：大模型 → 小模型的精度迁移、软标签训练与结构搜索
   - 🔥 **专业小模型训练与部署**：面向垂直场景的高效小模型定制、量化与端侧推理优化
@@ -47,6 +54,26 @@
   - **Agent/ReAct 编程范式**：思考-行动-观测闭环的编码助手开发
   - **视频超分辨率**：面向 RTC 场景的超分模型落地
   - **流媒体 GPU 加速转码**：基于 NVENC/CUDA 的高吞吐转码服务
+
+
+# [LLM 工程化项目解决的行业痛点](https://chensongpoixs.github.io/llm_aigc/)
+
+| 痛点             | 行业现状                             | 解决方案                                          |
+| -------------- | -------------------------------- | --------------------------------------------- |
+| 推理成本高          | 70B+ 模型依赖多卡集群，中小企业难以承担           | 通过知识蒸馏将能力迁移至 0.5B~7B 模型，成本降低 80%+             |
+| 生成速度慢          | 大模型仅 20~50 Tokens/s，Agent 响应延迟明显 | 小模型 + vLLM + KV Cache 优化，可达到 150~500 Tokens/s |
+| 部署门槛高          | 模型体积数百 GB，GPU 要求高                | INT4/AWQ/GPTQ 量化后单卡即可部署                       |
+| 领域知识缺失         | 通用模型无法理解企业内部知识                   | RAG + 专业数据集微调构建领域专家模型                         |
+| Agent 效果不稳定    | Tool Calling 容易失败                | ReAct + Workflow + MCP 提升执行成功率                |
+| 数据获取困难         | 高质量 SFT 数据成本高                    | API 透明代理自动沉淀训练数据                              |
+| 训练成本高          | 从零训练需要大量 GPU                     | 蒸馏 + LoRA 微调降低训练成本                            |
+| 工程链路割裂         | 训练、推理、Agent 系统分散                 | 打通 Data → Train → Distill → Infer → Agent 全链路 |
+| 私有化困难          | 数据无法出企业内网                        | 支持本地部署与离线推理                                   |
+| 缺乏 AI Infra 能力 | 多数团队只会调用 API                     | 提供完整 AI 基础设施建设能力                              |
+
+
+
+
 
 ---
 # 一、 音视频、流媒体学习记录
