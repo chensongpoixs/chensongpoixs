@@ -40,12 +40,7 @@
 长期深耕 **WebRTC、实时通信、视频编解码、渲染管线**，并持续投入 **大语言模型训练、推理优化与模型小型化** 方向。
 
 - **核心技术栈**：
-  - **语言：** C/C++、Go、Python
-  - **音视频：** FFmpeg、WebRTC、GStreamer、RTSP、RTMP、SRT
-  - **GPU计算：** CUDA、NVENC、TensorRT、GPU Transcoding
-  - **图形渲染：** DirectX、OpenGL、Vulkan
-  - **基础设施：** Redis、Nginx、Linux、Docker
-  - **AI工程化：** Transformers、vLLM、LoRA、SFT、Agent、RAG
+  -  C/C++、Go、Python、FFmpeg、WebRTC、GStreamer、RTSP、RTMP、SRT、CUDA、NVENC、TensorRT、GPU Transcoding、DirectX、OpenGL、Vulkan、Redis、Nginx、Linux、Docker、Transformers、vLLM、LoRA、SFT、Agent、RAG
 
 - **当前聚焦**：
   - 🔥 **知识蒸馏（Teacher-Student）**：大模型 → 小模型的精度迁移、软标签训练与结构搜索
@@ -56,7 +51,7 @@
   - **流媒体 GPU 加速转码**：基于 NVENC/CUDA 的高吞吐转码服务
 
 
-# [LLM 工程化项目解决的行业痛点](https://chensongpoixs.github.io/llm_aigc/)
+- [LLM 工程化项目解决的行业痛点](https://chensongpoixs.github.io/llm_aigc/)
 
 | 痛点             | 行业现状                             | 解决方案                                          |
 | -------------- | -------------------------------- | --------------------------------------------- |
@@ -121,7 +116,7 @@
 |2026-01-01|[4、AI编码助手(Agent、ReAct -> 思考-行动-观测)](https://chensongpoixs.github.io/clude_code/)|
 |2026-04-26|[5、大模型交互日志与数据沉淀代理、直接服务于监督微调、偏好对齐等训练数据的准备工作](https://chensongpoixs.github.io/LLMInteractionRecorderProxy/)|
 |2026-06-01|[6、PolyDistill：大模型知识蒸馏、小模型训练与推理优化工程实践](https://chensongpoixs.github.io/PolyDistill/)|
-
+|2026-06-08|[7、LLM 工程化 & Agent](https://chensongpoixs.github.io/llm_aigc/)|
 </td>
   </table>
 
