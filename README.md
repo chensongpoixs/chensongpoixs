@@ -83,19 +83,20 @@
 
 # 二、人工智能的学习记录
 
-- [1、AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)
+<table><tr>
+<td valign="top" width="50%">
+  
+|Date|Project|
+|:---:|:---|
+|2019-12-01|[1、AI算法基本功和AI算法进阶技能(项目是在2019年12月份创建的，中间断断续续的更新。2023年初正式投入精力完善项目的内容)](https://chensongpoixs.github.io/cartificial_intelligence/)|
+|2022-02-01|[2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)|
+|2025-11-25|[3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)|
+|2026-01-01|[4、AI编码助手(Agent、ReAct -> 思考-行动-观测)](https://chensongpoixs.github.io/clude_code/)|
+|2026-04-26|[5、大模型交互日志与数据沉淀代理、直接服务于监督微调、偏好对齐等训练数据的准备工作](https://chensongpoixs.github.io/LLMInteractionRecorderProxy/)|
+|2026-06-01|[6、PolyDistill：大模型知识蒸馏、小模型训练与推理优化工程实践](https://chensongpoixs.github.io/PolyDistill/)|
 
-- [2、超分辨率技术在实时音视频领域的研究与实践](https://chensongpoixs.github.io/cvideo_super_resolution_technology/)
-
-- [3、大语言模型微调及其应用探索, 2025-11-25 投入精力跟踪行业前沿的技术](https://chensongpoixs.github.io/LLMSAPP/)
-
-- [4、AI编码助手(Agent、ReAct -> 思考-行动-观测) 2026-01-01](https://chensongpoixs.github.io/clude_code/)
-
-- [5、大模型交互日志与数据沉淀代理、直接服务于监督微调、偏好对齐等训练数据的准备工作(2026-04-26)](https://chensongpoixs.github.io/LLMInteractionRecorderProxy/)
-
-- [6、PolyDistill：大模型知识蒸馏、小模型训练与推理优化工程实践（2026-06-01）](https://chensongpoixs.github.io/PolyDistill/)
-
-</table>
+</td>
+  </table>
 
 # 三、 开源项目
 
