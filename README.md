@@ -39,8 +39,7 @@
 具有 **音视频、流媒体、GPU 加速及 AI 工程化** 等系统能力。  
 长期深耕 **WebRTC、实时通信、视频编解码、渲染管线**，并持续投入 **大语言模型训练、推理优化与模型小型化** 方向。
 
-- **核心技术栈**：
-  -  C/C++、Go、Python、FFmpeg、WebRTC、GStreamer、RTSP、RTMP、SRT、CUDA、NVENC、TensorRT、GPU Transcoding、DirectX、OpenGL、Vulkan、Redis、Nginx、Linux、Docker、Transformers、vLLM、LoRA、SFT、Agent、RAG
+- **核心技术栈**： C/C++、Go、Python、FFmpeg、WebRTC、GStreamer、RTSP、RTMP、SRT、CUDA、NVENC、TensorRT、GPU Transcoding、DirectX、OpenGL、Vulkan、Redis、Nginx、Linux、Docker、Transformers、vLLM、LoRA、SFT、Agent、RAG
 
 - **当前聚焦**：
   - 🔥 **知识蒸馏（Teacher-Student）**：大模型 → 小模型的精度迁移、软标签训练与结构搜索
