@@ -32,6 +32,9 @@
 > 
 > 仍然在路上，向往自由和梦想的人！！！
 
+
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -170,6 +173,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chensongpoixs&theme=nord_bright" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chensongpoixs&theme=nord_bright" />
 </p>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chensongpoixs/cwebrtc,chensongpoixs/cmp4_box_avi_flx,chensongpoixs/cvideo_codec,chensongpoixs/libmedia_transfer_protocol,chensongpoixs/clude_code,chensongpoixs/PolyDistill,chensongpoixs/cbook,chensongpoixs/awesome-persona-distill-skills)](https://github.com/chensongpoixs?tab=repositories)
 
 ---
 
